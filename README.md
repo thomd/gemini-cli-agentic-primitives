@@ -14,5 +14,5 @@ Custom prompts for web development and devops engineering to be used in [Gemini 
 ## Install
 
 ```
-gemini extensions install thomd/gemini-cli-prompts
+gemini extensions install https://github.com/thomd/gemini-cli-prompts
 ```
